@@ -14,7 +14,10 @@
 2. Failed? Fix it please!
 3. Succeeded? Perfect!
 
-### Third exercise: Loading
+### Third exercise: Find Users in a Specific City
+1. Run: `lein test`
+2. Failed? Fix it please!
+3. Succeeded? Perfect!
 
 ### Fourth exercise: Loading
 
