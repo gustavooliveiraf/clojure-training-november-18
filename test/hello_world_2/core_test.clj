@@ -37,3 +37,17 @@
 (deftest e-test
   (testing "FIXME, I fail - List all unique website domains."
     (is (= ["hildegard.org" "ramiro.info"] (e-test-func (core/data))))))
+
+(def data (core/data))
+
+(defn f-test-func
+  [data]
+  data)
+
+(deftest f-test
+  (testing "FIXME, I fail - Index by id."
+    (is (= {
+            1 (first data)
+            2 (second data)
+            3 (nth data 2)
+            } (f-test-func data)))))

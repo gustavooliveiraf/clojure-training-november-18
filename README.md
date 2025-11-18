@@ -28,3 +28,8 @@
 1. Run: `lein test`
 2. Failed? Fix it please!
 3. Succeeded? Perfect!
+
+### Sixth exercise: Index by id
+1. Run: `lein test`
+2. Failed? Fix it please!
+3. Succeeded? Perfect!
