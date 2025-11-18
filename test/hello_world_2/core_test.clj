@@ -29,3 +29,11 @@
 (deftest d-test
   (testing "FIXME, I fail - Find the user with the southernmost latitude."
     (is (= ["Clementine Bauch"] (d-test-func (core/data))))))
+
+(defn e-test-func
+  [data]
+  data)
+
+(deftest e-test
+  (testing "FIXME, I fail - List all unique website domains."
+    (is (= ["hildegard.org" "ramiro.info"] (e-test-func (core/data))))))

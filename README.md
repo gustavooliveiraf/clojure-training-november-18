@@ -24,4 +24,7 @@
 2. Failed? Fix it please!
 3. Succeeded? Perfect!
 
-### Fifth exercise: Loading
+### Fifth exercise: List all unique website domains
+1. Run: `lein test`
+2. Failed? Fix it please!
+3. Succeeded? Perfect!
