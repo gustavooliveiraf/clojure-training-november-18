@@ -21,3 +21,11 @@
 (deftest c-test
   (testing "FIXME, I fail - Find Users in a Specific City."
     (is (= ["Ervin Howell" "Clementine Bauch"] (c-test-func (core/data) "Wisokyburgh")))))
+
+(defn d-test-func
+  [data]
+  data)
+
+(deftest d-test
+  (testing "FIXME, I fail - Find the user with the southernmost latitude."
+    (is (= ["Clementine Bauch"] (d-test-func (core/data))))))

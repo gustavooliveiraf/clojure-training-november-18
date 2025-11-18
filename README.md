@@ -19,6 +19,9 @@
 2. Failed? Fix it please!
 3. Succeeded? Perfect!
 
-### Fourth exercise: Loading
+### Fourth exercise: Find the user with the southernmost latitude
+1. Run: `lein test`
+2. Failed? Fix it please!
+3. Succeeded? Perfect!
 
 ### Fifth exercise: Loading
