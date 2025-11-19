@@ -44,7 +44,7 @@
 
 (defn f-test-func
   [data]
-  data) ; group-by ?
+  data) ; try doing it without group-by (;
 
 (deftest f-test
   (testing "FIXME, I fail - Index by id."

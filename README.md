@@ -1,6 +1,6 @@
 # Practicing with collections
 
-### Step zero
+### First of all
 
 🏗️ Install [Leiningen](https://leiningen.org/#install)
 
