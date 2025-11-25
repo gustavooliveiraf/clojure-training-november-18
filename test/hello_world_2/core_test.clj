@@ -52,3 +52,11 @@
             2 [(second data)]
             3 [(nth data 2)]}
            (f-test-func data)))))
+
+(defn g-test-func
+  [data]
+  data)
+
+(deftest g-test
+  (testing "FIXME, I fail - Add up the total length of all the names using thread-first/thread-last."
+    (is (= 41 (g-test-func data)))))

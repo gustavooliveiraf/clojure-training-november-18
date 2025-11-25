@@ -33,3 +33,8 @@
 1. Run: `lein test :only hello-world-2.core-test/f-test`
 2. Failed? Fix it please!
 3. Succeeded? Perfect!
+
+### Seventh exercise: Add up the total length of all the names using thread-first/thread-last
+1. Run: `lein test :only hello-world-2.core-test/g-test`
+2. Failed? Fix it please!
+3. Succeeded? Perfect!
